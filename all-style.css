@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(/img/back.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_2 {
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
